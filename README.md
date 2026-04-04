@@ -258,3 +258,23 @@ Key Functions:
 
 ---
 
+## Future Scope (Phase 5+)
+
+- Long-term memory using vector databases
+- Speech-to-Text integration
+- Autonomous agent capabilities
+- Plugin system
+- Multi-user session handling
+
+---
+
+## Final Note
+
+This backend acts as the foundation of an AI system capable of:
+- Processing input
+- Executing commands
+- Generating intelligent responses
+- Maintaining memory
+- Delivering real-time interaction
+
+It is designed to evolve into a full AI operating system.
